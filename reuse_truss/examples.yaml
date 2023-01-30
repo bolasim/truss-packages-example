@@ -1,0 +1,14 @@
+- input:
+    inputs:
+    - - 0
+  name: example1
+- input:
+    obj1:
+      name: apples
+      quantity_on_hand: 5
+      unit_price: 10.0
+    obj2:
+      name: oranges
+      quanity_on_hand: 19
+      unit_price: 5.0
+  name: test1
